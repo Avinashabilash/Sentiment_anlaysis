@@ -31,18 +31,13 @@ Enhance product quality and service based on insights.
 
 ## Result
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e086a269-41a3-4e19-bf05-c2c7bb51e502" width="400" alt="Result Screenshot">
-</p>
+<img width="250" height="367" alt="Screenshot 2025-08-18 235737" src="https://github.com/user-attachments/assets/c4ba55ba-87fd-40a5-aefd-193374e40871" />
 
 ## Accuracy
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/400ef2ff-82be-4b26-9ac7-e134a0bdc4c7" width="400" alt="Accuracy Screenshot">
-</p>
+<img width="290" height="311" alt="Screenshot 2025-08-18 235745" src="https://github.com/user-attachments/assets/fe85a8dc-2bb7-4b20-a5b4-d544ec8c6f9d" />
 
 ## Work Flow
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ce609b66-a2fb-4b35-850b-aa2426b342d1" width="250" alt="Workflow">
-</p>
+<img width="271" height="348" alt="Screenshot 2025-08-19 000831" src="https://github.com/user-attachments/assets/a383dc31-d707-450a-abb2-007c6a1139e9" />
+
